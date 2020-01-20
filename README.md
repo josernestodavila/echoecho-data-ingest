@@ -4,8 +4,8 @@
 
 To run this solution follow these steps:
 
-- Install `pipenv` using the instructions from (here).
-- Clone the project's repository from (here).
+- Install `pipenv` using the instructions from [here](https://github.com/pypa/pipenv#installation).
+- Clone the project's repository from [https://github.com/josernestodavila/echoecho-data-ingest.git](https://github.com/josernestodavila/echoecho-data-ingest.git).
 - Install the project's dependencies running `pipenv install`.
 - Run the data ingestion with `pipenv run python ingest_data.py`.
 
